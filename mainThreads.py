@@ -349,6 +349,7 @@ def change_button_style():
 
 
 root = Tk()
+root.title("VISIONAISCAN")
 root.geometry("500x650")
 root.resizable(0, 0)
 frame = Frame(root)
